@@ -115,10 +115,6 @@ function main() {
     function render(time) {
       time *= 0.01;
       
-      if(!freeze){
-        camera.position.y += 0.1;
-        
-      }
   
       if (resizeRendererToDisplaySize(renderer)) {
         const canvas = renderer.domElement;
