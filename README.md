@@ -4,7 +4,8 @@ Nama benda: Duri <br>
 
 Link Deploy Tugas 1: https://grafkom1-christopherbaptista.vercel.app/ <br>
 Link Deploy Tugas 2: https://threejs-1-christopherbap5.vercel.app/ <br>
-Link Deploy Tugas 3: https://colorgame-christopherbap5.vercel.app/
+Link Deploy Tugas 3: https://colorgame-christopherbap5.vercel.app/ <br>
+Link Deploy Tugas 4: https://tugas4-christopherbap5.vercel.app/ (Loading agak lama)
 
 ## Foto Depan Atas
 ![372395](https://user-images.githubusercontent.com/57831206/134175083-3623eea6-93f0-44a7-b8c1-2b94a28afc63.jpg)
